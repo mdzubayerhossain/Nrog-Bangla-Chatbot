@@ -22,7 +22,7 @@ The **Nrog Bangla Chatbot** is a professional, data-driven conversational AI des
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/nrog-bangla-chatbot.git
+git clone https://github.com/mdzubayerhossain/Nrog-Bangla-Chatbot.git
 cd nrog-bangla-chatbot
 ```
 
